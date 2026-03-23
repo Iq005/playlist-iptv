@@ -1,7 +1,8 @@
 #EXTINF:-1,beIN SPORTS 1 FHD
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/233729.ts
 #EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 1 ꜰʜᴅ ʜᴇᴠᴄ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-1-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 1 ꜰʜᴅ ʜᴇᴠᴄ
-http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/275838.ts#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 1 ʜᴅ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-1-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 1 ʜᴅ
+http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/275838.ts
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 1 ʜᴅ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-1-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 1 ʜᴅ
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/275839.ts#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 2 ʜᴅ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-2-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 2 ʜᴅ
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/275840.ts#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 2 ꜰʜᴅ ʜᴇᴠᴄ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-2-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 2 ꜰʜᴅ ʜᴇᴠᴄ
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/275841.ts#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 3 ʜᴅ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-3-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 3 ʜᴅ
