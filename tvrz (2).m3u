@@ -883,5 +883,5 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff
 https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
 #EXTINF:-1,C2M TV
 https://stream.ecable.tv/canal2m/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 1 FHD HEVC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-1-french-fr.png" group-title="WORLD SPORT",|FR| beIN SPORTS 1 FHD HEVC
+#EXTINF:-1,beIN SPORTS
 http://20012.xyz:2086/live/07XJwOyG0Z/5417828008/233729.ts
