@@ -882,4 +882,5 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff
 #EXTINF:-1,AfroMagic channel
 https://video1.getstreamhosting.com:1936/8306/8306/playlist.m3u8
 #EXTINF:-1,C2M TV
-https://stream.ecable.tv/canal2m/tracks-v1a1/mono.m3u8#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 1 ꜰʜᴅ ʜᴇᴠᴄ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-
+https://stream.ecable.tv/canal2m/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="|FR| beIN SPORTS 1 ꜰʜᴅ ʜᴇᴠᴄ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-
